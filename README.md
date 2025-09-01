@@ -1,4 +1,4 @@
-# wordpress-devsecops-aws
+
 
 #  WordPress com Docker e DevSecOps na AWS
 
@@ -22,7 +22,7 @@ Este projeto realiza o deploy automatizado de uma aplicação WordPress em cont�
 
 ##  Arquitetura
 
-!Diagrama da Arquitetura
+Diagrama da Arquitetura
 
 ### Componentes AWS Utilizados:
 
@@ -54,7 +54,7 @@ Este projeto realiza o deploy automatizado de uma aplicação WordPress em cont�
 
 ---
 
-## ⚙️ CI/CD com GitHub Actions
+##  CI/CD com GitHub Actions
 
 ```yaml
 name: Deploy WordPress
